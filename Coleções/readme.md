@@ -17,3 +17,9 @@ CONJUNTOS (SET) E MAPAS (DICIONÁRIOS) EM PYTHON:
 - Um dicionário tem chave e valor
 - Um conjunto tem apenas valor.
 
+-> Pode haver qualquer tipo de dados em um set
+s = {1, 'b', True, 34.22, 44}
+print(s)
+print(type(s))
+
+### Usos interessantes com sets
